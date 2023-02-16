@@ -11,6 +11,7 @@
 ### Algorithm Options List
 - K-Nearest Neighbour
 - Linear Classifcation
+- Logistic Regression
 - Naive Bayes
 - Decision Tree
 - Random Forest
@@ -20,7 +21,10 @@
 - Neural Networks
 
 ### Algorithms Selected List
+- K-Nearest Neighbour?
 - Random Forest?
+- Logistic Regression?
+- Linear Classification
 
 ### Algorithm 1
 #### Why this algorithm
@@ -61,3 +65,15 @@ blabla
 #### Results and Explanation
 blabla
 
+### Algorithm 4
+#### Why this algorithm
+blabla
+
+#### Preprocessing done
+blabla
+
+#### Parameter tuning done
+blabla
+
+#### Results and Explanation
+blabla

@@ -7,5 +7,3 @@
     * conda create -n EpicML numpy pandas scipy matplotlib
     * conda activate EpicML
 3. If you open up the Anaconda Navigator on Windows, you can now find EpicML as one of the environments. Remember to install Jupyter Notebook for the environment. A main.ipynb file can already be found in the repository, ready to be worked on.
-
-Test Test Test

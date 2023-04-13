@@ -2,8 +2,6 @@
 - isolate a stratified 10% of the data at the start for use in final testing of the models
     - from the remaining 90% of the data, make training and validation data
 - remove comments and describe our work with markdown cells instead
-- undo removal of "bruised?" and comments about it, at least until a better reason for removal can be found
-- run .values_counts() on every feature, and display the results, that way we can make new discoveries about the distribution of values per feature
 - remove old code and comments making some calculations on dependencies
     - instead run Theil's U on features/variables in dataset to discover dependencies, and visualize with heatmap https://towardsdatascience.com/the-search-for-categorical-correlation-a1cf7f1888c9 
     - Cramer's V is a subpar version of Theil's U that is symmetrical, such that we only know if 2 variables x and y are associated, but not if for instance x is dependent on y but y is independent of x (which is what we want to know when deciding features to drop)
